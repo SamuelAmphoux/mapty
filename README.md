@@ -1,6 +1,6 @@
 The main educational objectives of this project are :
 
-_ Using a geolocation API
+_ Using the geolocation API
 
 _ Implementing external libraries
 
