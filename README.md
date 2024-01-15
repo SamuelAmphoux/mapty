@@ -5,3 +5,5 @@ _ Using a geolocation API
 _ Implementing external libraries
 
 _ Practicing OOP techniques 
+
+_ Storing data locally in the user's browser
